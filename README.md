@@ -1,3 +1,4 @@
+# Evaluation par: Rim EL ABBASSI 
 ## Exercice 1 — Gestion de stock
 Application pour gérer le stock d’un magasin de produits informatiques.  
 **Fonctionnalités principales :**
